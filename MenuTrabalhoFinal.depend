@@ -1,0 +1,23 @@
+# depslib dependency file v1.0
+1677177263 source:c:\users\limen\downloads\menutrabalhofinal\menutrabalhofinal\main.c
+	<stdio.h>
+	<stdlib.h>
+	"cliente_struct.c"
+	<time.h>
+
+1677176272 c:\users\limen\downloads\menutrabalhofinal\menutrabalhofinal\cliente_struct.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+
+1677330989 source:c:\users\dival\onedrive\Área de trabalho\folders\facul\segundo período\algorítimos\trabalhofinal\menutrabalhofinal\main.c
+	<stdio.h>
+	<stdlib.h>
+	"cliente_struct.c"
+	<time.h>
+
+1677331706 c:\users\dival\onedrive\Área de trabalho\folders\facul\segundo período\algorítimos\trabalhofinal\menutrabalhofinal\cliente_struct.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+
